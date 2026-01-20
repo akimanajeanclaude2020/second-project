@@ -55,3 +55,59 @@
    justify-content: space-between;
    margin-top: 100px;
 }
+
+/* CSS For forget.html*/
+
+.heading{
+   display: flex;
+   padding: 0%;
+   justify-content: space-between;
+   background-color: white;
+}
+.forget{
+   color: blue;
+   text-decoration: none;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.log-in1{
+   color: white;
+   background-color: blue;
+   border-radius: 5px;
+   border: none;
+}
+.facebook{
+   color: blue;
+   font-style: normal;
+   display: flex;
+}
+.form11{
+   padding-top: 35px;
+         
+}
+.centered{
+   background-color: white;
+   width: 340px;
+   height: 200px;
+   border-radius: 10px;
+   justify-content: center;
+   align-items: center;
+   margin-left: 300px;
+}
+
+.search{
+   background-color: #0066cc;
+   color: white;
+   border-radius: 5px; float: right;
+   margin: 5px;
+}
+
+.cancel{
+   color: black;
+   border-radius: 5px;
+   float: right;
+   margin: 5px;
+}
+.Email11{
+   width: 300px;
+   margin-bottom: 30px;
+}
